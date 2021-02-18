@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [pdf] (http://shengwenleong.github.io/files/cv.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Bio
+=====
+[pdf] (http://shengwenleong.github.io/files/cv.pdf)"
 
 Education
 ======
