@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Bio
-=====
-[pdf](http://shengwenleong.github.io/files/cv.pdf)
+[pdf version](http://shengwenleong.github.io/files/cv.pdf)
 
 Education
 ======
