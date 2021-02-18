@@ -11,7 +11,7 @@ redirect_from:
 
 Bio
 =====
-[pdf] (http://shengwenleong.github.io/files/cv.pdf)"
+[pdf](http://shengwenleong.github.io/files/cv.pdf)
 
 Education
 ======
